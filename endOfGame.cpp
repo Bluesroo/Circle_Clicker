@@ -1,5 +1,5 @@
-#pragma once
-#include "stdafx.h"
+#include "main.h"
+#include "wrappers.h"
 
 int endOfGame(sf::RenderWindow *window, clock_t timer) {
     //Setting up the test to be printed

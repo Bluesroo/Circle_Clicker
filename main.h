@@ -1,11 +1,8 @@
-#pragma once
-
 //Includes
-#include "wrappers.h"
 #include <stdio.h>
-#include <SFML/Graphics.hpp>
-#include <SFML/Window.hpp>
-#include <SFML/System.hpp>
+#include <SFML/include/SFML/Graphics.hpp>
+#include <SFML/include/SFML/Window.hpp>
+#include <SFML/include/SFML/System.hpp>
 #include <time.h>
 #include <iostream>
 #include <string>

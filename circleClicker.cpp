@@ -1,5 +1,5 @@
-#pragma once
-#include "stdafx.h"
+#include "main.h"
+#include "wrappers.h"
 
 int main() {
     //Creates the window
