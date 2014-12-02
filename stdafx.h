@@ -1,10 +1,8 @@
 #pragma once
 
 //Includes
-#include "targetver.h"
 #include "wrappers.h"
 #include <stdio.h>
-#include <tchar.h>
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 #include <SFML/System.hpp>

@@ -1,8 +1,7 @@
-Circle_Clicker
-==============
+#Circle_Clicker
 
-A silly game I made using SFML in order to expose myself to some basics regarding C++, OO design, and graphics.
+The point of this game is to click 10 randomly generated squares which pop up on the screen. It is very basic and I used
+it to teach myself a little about C++, event based programming, and graphics programming (with the help of [SFML](http://sfml-dev.org/index.php)).
 
-The whole point of the game is to click 10 randomly generated squares as fast as possible. That's literally it. If you would like to try it download the .dlls and the .exe.
-
-Note: Some of the formatting/ indents got foobarred when I pushed the project to git.
+####Note:
+    This will only compile on Linux (I believe).
